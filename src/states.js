@@ -11,17 +11,17 @@ export const products = [
         },
         {
           id: 3,
-          name: 'Cherry',
-          price: 100
-        },
-        {
-          id: 4,
-          name: 'Date',
+          name: 'Mango',
           price: 200
         },
         {
+          id: 4,
+          name: 'Orange',
+          price: 150
+        },
+        {
           id: 5,
-          name: 'Elderberry',
-          price: 300
+          name: 'Watermelon',
+          price: 500
         }      
 ]
